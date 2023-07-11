@@ -1,0 +1,445 @@
+
+/* common styles */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.text{
+    color: #bd2121;
+}
+
+
+/* nav related styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    
+
+}
+.title{
+    color: #000;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+    margin-right: 50px;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #272727;
+}
+
+
+
+.beautiful{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    background-color:  rgba(229, 84, 115, 0.10);
+       
+}
+.beautiful-flowers {
+    color: #272727;
+
+font-size: 80px;
+
+font-weight: 800;
+
+
+}
+
+.flowers{
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+
+}
+.btn-shop{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    display: inline-flex;
+padding: 20px 35px;
+align-items: center;
+}
+/* main section */
+ .Featured{
+    background: #FFF;}
+
+    /* main section */
+.Featured{
+    background: #FFF;
+
+}
+/* main section */
+.Featured{
+    background: #FFF;}
+
+    /* main section */
+.Featured{
+    background: #FFF;
+
+}
+
+ /* Featured  */
+.section-title{
+    color: #272727;
+text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+
+}
+
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+display: flex;
+width: 494px;
+
+margin-left: 550px;
+}
+/* skill-container */
+.skill-container{
+    display: flex;
+   
+ background: #FFF; 
+margin-left: 40px;
+gap: 10px;
+gap: 10px 20px; 
+row-gap: 10px;
+column-gap: 20px;}
+.skill{
+    border-radius: 200px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 464px;
+height: 538px;
+}
+.pngwing{
+    width: 310px;
+height: 428px;
+margin: 30px;}
+.skil-title{
+    color: #272727;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+line-height: 35px;
+padding-top: 40px;
+}
+.skill-1{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+
+
+
+}
+.pngwing-1 {
+    width: 370px;
+height: 370px;
+margin: 30px;
+
+}
+.skil-title-1{
+    color: #272727;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+
+padding-top: 100px;
+}
+.skill-2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 464px;
+height: 538px;
+
+
+
+}
+.pngwing-2 {
+    width: 370px;
+height: 370px;
+margin: 30px;
+
+}
+.skil-title-2{
+    color: #272727;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+
+padding-top: 100px;
+}
+/* Featured  */
+.section-title{
+    color: #272727;
+text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+
+}
+
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+display: flex;
+width: 494px;
+
+margin-left: 550px;
+}
+/* skill-container */
+.skill-container{
+    display: flex;
+   
+ background: #FFF; 
+margin-left: 40px;
+gap: 10px;
+gap: 10px 20px; 
+row-gap: 10px;
+column-gap: 20px;}
+.skill{
+    border-radius: 200px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 464px;
+height: 538px;
+}
+.pngwing{
+    width: 310px;
+height: 428px;
+margin: 30px;}
+.skil-title{
+    color: #272727;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+line-height: 35px;
+padding-top: 40px;
+}
+.skill-1{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+
+
+
+}
+.pngwing-1 {
+    width: 370px;
+height: 370px;
+margin: 30px;
+
+}
+.skil-title-1{
+    color: #272727;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+
+padding-top: 100px;
+}
+.skill-2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+width: 464px;
+height: 538px;
+
+
+
+}
+.pngwing-2 {
+    width: 370px;
+height: 370px;
+margin: 30px;
+
+}
+.skil-title-2{
+    color: #272727;
+text-align: center;
+
+font-size: 24px;
+
+font-weight: 700;
+
+padding-top: 100px;
+}
+
+
+.Fresh-Flowers{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   margin: 80px 80px 80px 80px;
+    background-color: aliceblue;
+    padding: 50px;
+    
+
+}
+/* deal */
+.deal{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+padding: 100px 100px 100px 100px;
+}
+.sale-up{
+    color: #272727;
+
+font-size: 40px;
+
+font-weight: 400;
+padding: 30px ;
+
+margin-left: 500px;
+}
+.long-established{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 15px;
+font-weight: 200;
+
+}
+.sing{
+    
+    border-radius: 8px;
+    background: #E55473;
+    display: flex;
+padding: 20px 43px;
+align-items: center;
+gap: 20px;
+margin-left: 700px;
+
+}
+
+.Insta{
+    width: 1920px;
+height: 4867px;
+justify-content: space-between;
+align-items: center;
+margin: 80px 80px 80px 80px;
+gap: 20px;
+gap: 10px 20px; 
+row-gap: 10px;
+column-gap: 20px;
+}
+.Instagram-title{
+ 
+color: #272727;
+
+margin-left: 500px;
+font-size: 40px;
+
+font-weight: 800;
+
+}
+.established{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+
+font-weight: 400;
+margin-right: 600px;
+
+   
+}
+
+
+/* backround */
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.backround{
+    padding: 100px;
+    margin-left: 600px;
+    background-image: url(<Flower Asset/Rectangle 9.png>);
+    
+
+ }
+ .btn-email{
+    padding: 10px 100px;
+    border-radius: 15px;
+background: #FFF;
+ }
+ .btn-sub{
+    border-radius: 8px;
+background: #E55473;
+padding: 5px 15px ;
+ }
+
+ .flowers-shop{
+    background-color: black;
+ }
+ .span{
+    
+color: #E55473;
+font-size: 48px;
+font-weight: 800;
+
+ }
+
+
+ .h3{
+
+color: #FFF;
+font-size: 48px;
+margin-left: 600px;
+padding: 30px;
+font-weight: 800;
+
+ }
+ .layout{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+ }
+ .time{
+    color: red
+text-align: center;
+
+font-size: 16px;
+
+font-weight: 400;
+ }
