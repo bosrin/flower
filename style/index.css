@@ -387,13 +387,7 @@ body{
     padding: 0px;
 
 }
-.backround{
-    padding: 100px;
-    margin-left: 600px;
-    background-image: url(<Flower Asset/Rectangle 9.png>);
-    
 
- }
  .btn-email{
     padding: 10px 100px;
     border-radius: 15px;
@@ -435,11 +429,4 @@ font-size: 18px;
 font-weight: 400;
 line-height: 30px;
  }
- .time{
-    color: red
-text-align: center;
-
-font-size: 16px;
-
-font-weight: 400;
- }
+ 
